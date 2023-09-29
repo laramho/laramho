@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Abdullah. I myself am from Russia, but not Russian
+- 👀 I am interested in: linux, bash
+- 🌱 I am currently studying OSI, TCP/IP, networking and linux kernel.
+- 💞️ I want to collaborate with energetic people to learn linux stuff. Really like everything related to linux.
+- 📫 How to contact me - https://t.me/laramho. waylaramho@gmail.com
